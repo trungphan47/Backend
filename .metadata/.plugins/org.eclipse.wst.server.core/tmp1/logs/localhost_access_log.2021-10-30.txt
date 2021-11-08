@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [30/Oct/2021:00:28:31 +0700] "GET /test/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [30/Oct/2021:00:28:31 +0700] "GET /test/home HTTP/1.1" 200 342
+0:0:0:0:0:0:0:1 - - [30/Oct/2021:00:28:39 +0700] "GET /test/customer/showForm HTTP/1.1" 200 551
+0:0:0:0:0:0:0:1 - - [30/Oct/2021:00:28:46 +0700] "POST /test/customer/processForm HTTP/1.1" 200 616
+0:0:0:0:0:0:0:1 - - [30/Oct/2021:00:28:56 +0700] "POST /test/customer/processForm HTTP/1.1" 200 621
+0:0:0:0:0:0:0:1 - - [30/Oct/2021:00:29:10 +0700] "POST /test/customer/processForm HTTP/1.1" 200 177

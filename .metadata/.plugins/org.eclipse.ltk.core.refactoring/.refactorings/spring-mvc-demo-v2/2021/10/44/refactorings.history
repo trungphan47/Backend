@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;spring-mvc-demo-v2/src/main/webapp/WEB-INF/lib/view/main-menu.jsp&apos; to &apos;main-menu1.jsp&apos;" description="Rename resource &apos;main-menu.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/WEB-INF/lib/view/main-menu.jsp" name="main-menu1.jsp" stamp="1635262291546" updateReferences="true"/>
+</session>
